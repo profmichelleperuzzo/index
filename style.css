@@ -1,0 +1,44 @@
+P{
+    text-align: center;
+}
+body {
+    background: #e2970c;
+    font-size: 20px;
+}
+#toalhas{
+    width: 16%;
+}
+#saco{
+    width: 16%;
+}
+#mascara1{
+    width: 16%;
+}
+#mascara{
+    width: 16%;
+}
+#stanley{
+    width: 16%;
+}
+#stanley1{
+    width: 16%;
+}
+h1 {text-align: center;
+background: #e8de56;
+border-radius: 80% ;
+}
+
+b{
+    color: rgb(196, 231, 70);
+}
+
+
+h1{font-size: 40px;color: rgb(10, 12, 12);}
+p{
+    color: rgb(3, 15, 20);
+}
+i{
+    font-size: 100px;
+    color: #0c0f01;
+
+}
